@@ -1,4 +1,6 @@
 # VCT-TeamPerformanceIndicators
 
-Test
-TODO: implement script to pull match results and URL
+- Script to pull group stage standings
+- Script to pull group stage match results
+
+TODO: implement script to pull stats from each match
